@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ef-dashboard</artifactId>
+    <artifactId>ef-dashboard-app</artifactId>
 
 
 </project>

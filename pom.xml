@@ -11,7 +11,8 @@
     <modules>
         <module>ef-parent</module>
         <module>ef-config</module>
-        <module>ef-dashboard</module>
+        <module>ef-dashboard-ui</module>
+        <module>ef-dashboard-app</module>
     </modules>
 
 
